@@ -10,7 +10,7 @@ const Navbar = () => {
   const navItems = [
     { name: "Home", href: "/" },
     { name: "Projects", href: "#portfolio" },
-    { name: "Contact", href: "mailto:your.email@example.com" },
+    { name: "Contact", href: "mailto: md.n.m.pius18@gmail.com" },
   ];
 
   const handleScroll = (e, href) => {
